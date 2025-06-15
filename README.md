@@ -4,7 +4,7 @@ This project is a faithful reimplementation of the mainboard of the iconic TRS-8
 
 **WARNING**: This project has not been confirmed to work yet. Use at your own risk.
 
-**WARNING**: This board had incorrectly routed traces and were cut in the factory. I replicated this as well, but I already embedded the trace cuts (and a silkscreen marker) to avoid frying your ICs. You will have to attach jumper wires in the right spots to make them work. See below. If you prefer a fully functioning board, then head over to the [Japanese-50 (HE11E011550) board](https://github.com/RetroStack/TRS-80-Model-I-Jap50-E1) which has all of this fixed.
+**WARNING**: The original board had incorrectly routed traces and were cut as part of assembly in the factory. I replicated this as well, but I already embedded the trace cuts (and a silkscreen marker) to avoid accidentally frying your ICs. You will have to attach jumper wires in the right spots to make this board work. See below. If you prefer a fully functioning board, then head over to the [Japanese-50 (HE11E011550) board](https://github.com/RetroStack/TRS-80-Model-I-Jap50-E1) which has all of this fixed.
 
 <No photo available yet!>
 
