@@ -228,6 +228,10 @@ Below is a list of materials needed to assemble a complete system.
 
 To work with this KiCAD project, you'll need the RetroStack libraries for KiCAD. Please [follow this link](https://www.github.com/RetroStack/KiCAD-Libraries) to access and install these libraries.
 
+## Contributions
+
+A big thank you to *Howard Bowe* for donating the Japanese Model 1 (Jap-20). His contribution made it possible to create such a detailed and accurate replica through reverse engineering.
+
 ## Main TRS-80 Model 1 Repository
 
 For additional resources related to the TRS-80 Model 1, be sure to check out the [central page for the TRS-80 Model 1](https://www.github.com/RetroStack/TRS-80-Model-I) on [RetroStack](https://www.github.com/RetroStack).
