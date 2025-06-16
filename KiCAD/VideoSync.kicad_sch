@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "TRS-80 Model I Rev HE11E011520")
-		(date "2025-06-14")
+		(date "2025-06-15")
 		(rev "E1A")
 		(company "RetroStack - Marcel Erz")
 		(comment 2 "Circuit to combine sync signals and defining front- and back-porches in video signal")
@@ -3429,6 +3429,15 @@
 			(type default)
 		)
 		(uuid "4f474617-bb84-401d-b6d4-9625361123c4")
+	)
+	(bus_entry
+		(at 161.925 111.125)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b8f0cb1-50d6-45c3-a97d-41c6a64565d0")
 	)
 	(bus_entry
 		(at 90.805 118.11)
